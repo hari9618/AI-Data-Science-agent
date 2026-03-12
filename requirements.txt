@@ -11,7 +11,7 @@ streamlit==1.35.0
 google-generativeai==0.7.2
 
 # ── Machine Learning ─────────────────────────────────────────
-scikit-learn==1.5.0
+scikit-learn==1.4.2
 xgboost==2.0.3
 
 # ── Data Processing ──────────────────────────────────────────
@@ -27,3 +27,4 @@ requests==2.32.3
 # ── Utilities ────────────────────────────────────────────────
 pydantic==2.7.1
 python-dotenv==1.0.1
+pillow==10.3.0
