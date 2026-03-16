@@ -21,7 +21,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-BACKEND = "http://127.0.0.1:8000"
+BACKEND = "https://ai-data-science-agent-1.onrender.com"
 
 # ─── Mega CSS / 3D Animations ─────────────────────────────────────────────────
 
