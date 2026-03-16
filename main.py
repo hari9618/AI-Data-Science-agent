@@ -57,7 +57,7 @@ app.add_middleware(
 
 def get_gemini_model():
     """Initialize Gemini 2.5 Flash model - tries multiple model names for compatibility."""
-    api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyAOO2uW0jR1eLlN1kNPtspdVpK6J1ocmxk")
+    api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyDrw-5cutT4ds-61URyFl37djIGd9CHw5Y")
     if not api_key:
         return None
     genai.configure(api_key=api_key)
@@ -314,7 +314,7 @@ def select_and_train_model(X_train, X_test, y_train, y_test, problem_type: str) 
 
 def ask_gemini(prompt: str) -> str:
     """Query Gemini and return response text, with model auto-fallback."""
-    api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyAOO2uW0jR1eLlN1kNPtspdVpK6J1ocmxk")
+    api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyDrw-5cutT4ds-61URyFl37djIGd9CHw5Y")
     if not api_key:
         return "⚠️ Gemini API key not configured. Set the GEMINI_API_KEY environment variable."
 
