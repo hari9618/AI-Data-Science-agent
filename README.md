@@ -140,10 +140,10 @@ streamlit run app.py
 
 📷 Application Preview
 
-Add screenshots here for better visualization
 
-![App Screenshot](<img width="956" height="440" alt="ai-ds-agent" src="https://github.com/user-attachments/assets/684938ed-8826-46d4-8cb0-b7dde8b4ed04" />
-)
+![App Screenshot]
+(<img width="956" height="440" alt="ai-ds-agent" src="https://github.com/user-attachments/assets/806a980f-0b49-43a5-879f-524ccde94fca" />)
+
 
 ---
 
