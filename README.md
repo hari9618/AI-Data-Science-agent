@@ -8,16 +8,18 @@
 
 🧩 Tech Badges
 
-"AI" (https://img.shields.io/badge/AI-Autonomous-blueviolet)
-"Data Science" (https://img.shields.io/badge/Data%20Science-Agent-orange)
-"Python" (https://img.shields.io/badge/Python-3.10+-blue)
-"Streamlit" (https://img.shields.io/badge/Streamlit-Frontend-red)
-"FastAPI" (https://img.shields.io/badge/FastAPI-Backend-green)
-"Machine Learning" (https://img.shields.io/badge/Machine%20Learning-Models-yellow)
-"Scikit-Learn" (https://img.shields.io/badge/Scikit--Learn-ML-orange)
-"XGBoost" (https://img.shields.io/badge/XGBoost-Boosting-darkgreen)
-"Generative AI" (https://img.shields.io/badge/Generative%20AI-Insights-purple)
-"AutoML" (https://img.shields.io/badge/AutoML-Pipeline-brightgreen)
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Autonomous-blueviolet"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Agent-orange"/>
+  <img src="https://img.shields.io/badge/Python-3.10+-blue"/>
+  <img src="https://img.shields.io/badge/Streamlit-Frontend-red"/>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-green"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Models-yellow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange"/>
+  <img src="https://img.shields.io/badge/XGBoost-Boosting-darkgreen"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-Insights-purple"/>
+  <img src="https://img.shields.io/badge/AutoML-Pipeline-brightgreen"/>
+</p>
 
 ---
 
