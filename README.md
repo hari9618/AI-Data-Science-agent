@@ -101,7 +101,7 @@ AI-DS-Agent
 
 1️⃣ Clone Repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/ai-ds-agent.git
+git clone https://github.com/hari9618/AI-ds-agent.git
 cd ai-ds-agent
 
 2️⃣ Install Dependencies
